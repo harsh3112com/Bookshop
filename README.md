@@ -24,10 +24,3 @@ It's designed to be clean, responsive, and beginner-friendly.
 - Clean, responsive layout
 - Basic navigation bar and footer
 
-## 🚀 Getting Started
-
-To view the project:
-
-1. Clone the repo:
-   ```bash
-   git clone https://github.com/harsh3112com/bookshop.git
